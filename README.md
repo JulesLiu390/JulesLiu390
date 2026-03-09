@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
 
 <!--
 **JulesLiu390/JulesLiu390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
